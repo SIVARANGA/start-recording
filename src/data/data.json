@@ -1,0 +1,44 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name": "Sivaranganayakulu",
+                "role":" Multi Skill Trainer ",
+                "email":"sivaranganayakulu.r@apssdc.in",
+                "mobile":"+91 9494594622"
+            },
+
+            "Certifications":{
+                "python":"Coursera Python for Everybody",
+                "datascience":"Coursera Datascience Specalisation",
+                "machine":"Data Science and Machine Learning Certification in Udemy"
+            },
+
+            "techinical":{
+                "tech1":"Python",
+                "tech2":"Data Science",
+                "tech3":"Machine Learning",
+                "tech4":"SQL NoSql",
+                "tech5":"HTML CSS ReactJs",
+                "tech6":"Scilab"
+
+            },
+
+            "Education":[
+                {
+                    "Degree":"B-tech(ECE)",
+                    "Instution":"QIS College of Engg & Tech"
+                },
+                {
+                    "Degree":"Intermediate",
+                    "Instution":"M S R Jr College"
+                },
+                {
+                    "Degree":"SSC",
+                    "Instution":"Damodara Public School"
+                }
+            ]
+        
+        }
+    ]
+}
